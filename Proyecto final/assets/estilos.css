@@ -1,0 +1,134 @@
+body{
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+	font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+	
+}
+
+.contenedor{
+	width: 100%;
+}
+
+.logo{
+	position: absolute;
+	bottom: 510px;
+	z-index: 1;
+	left: 1px;
+
+}
+
+.fondo{
+	position: absolute;
+	z-index: -1
+}
+
+.form-login{
+	width: 30%;
+	background-color: rgba(0,0,0,.75);
+	border-radius: 5px;
+	position: relative;
+	margin: auto;
+	top: 200px;
+	padding: 30px;
+}
+
+.form-login h2{
+	color:white;
+	margin-left: 24px;
+}
+
+.btn-sesion{
+	width: 86%;
+	margin-left: 26px;
+	background-color: red;
+	color: white;
+	border-style: none;
+	border-radius: 5px;
+	height: 40px;
+	font-size: 18px;
+}
+
+.input-sesion{
+	height: 30px;
+	margin-left: 25px;
+}
+
+.ayuda-sesion a{
+	width: 15%;
+	color: white;
+	text-decoration: none;
+	margin-left: 260px;
+	font-size: 13px;
+}
+
+.ayuda-sesion a:hover{
+	border-bottom: 1px solid white;
+}
+
+.contenedor-total{
+	width: 100%;
+}
+
+.header{
+	width: 100%;
+	background-color: #CCC;
+}
+
+.header-fijo{
+	width: 100%;
+	background-color: black;
+	position: fixed;
+	
+}
+
+.fijo-izquierda{
+	width: 67%;
+	display: inline-block;
+	
+}
+
+.fijo-izquierda img{
+	margin-left: 20px;
+}
+
+.fijo-derecha{
+	width: 30%;
+	display: inline-block;
+	
+}
+
+.direcciones{
+	margin-left: 15px;
+	position: relative;
+	bottom: 45px;
+	text-decoration: none;
+	color: white;
+}
+
+.direcciones2{
+	margin-left: 20px;
+	position: relative;
+	bottom: 42px;
+	text-decoration: none;
+	color: white;
+}
+
+.direccionesDer{
+	margin-left: 120px;
+	position: relative;
+	bottom: 45px;
+	text-decoration: none;
+	color: white;
+}
+
+.direcciones3{
+	margin-left: 20px;
+	position: relative;
+	bottom: 45px;
+	text-decoration: none;
+	color: white;
+}
+
+
+
